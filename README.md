@@ -62,9 +62,5 @@ JavaScript, TypeScript - [tsserver](https://github.com/neovim/nvim-lspconfig/blo
 
 # Optional
 
-You can see more keymaps at the file path: 
-```
-~/.config/nvim/lua/core/keymaps.lua 
-```
-or more file in my config.
+You can see more keymaps at the file path: `~/.config/nvim/lua/core/keymaps.lua` or more file in my config.
 
